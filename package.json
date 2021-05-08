@@ -9,6 +9,6 @@
   "author": "Michael Shkolnik",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.13"
+    "lodash": "^4.17.21"
   }
 }
